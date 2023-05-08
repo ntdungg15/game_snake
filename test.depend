@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1683522445 source:c:\users\admin\desktop\why\test\motchut.cpp
+	<bits/stdc++.h>
+	"SDL_image.h"
+	<ctime>
+	"SDL.h"
+	"motchut.h"
+	"sound.h"
+
+1683522445 source:c:\users\admin\desktop\why\test\main.cpp
+	<bits/stdc++.h>
+	"motchut.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"sound.h"
+	"SDL.h"
+
+1683522126 c:\users\admin\desktop\why\test\motchut.h
+	<vector>
+	"SDL.h"
+	"SDL_image.h"
+	<bits/stdc++.h>
+
+1683489592 c:\users\admin\desktop\why\test\sound.h
+	<bits/stdc++.h>
+	<SDL_mixer.h>
+
+1683520079 source:c:\users\admin\desktop\why\test\sound.cpp
+	"sound.h"
+	"SDL.h"
+
